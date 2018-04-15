@@ -1,6 +1,6 @@
-// FizzBuzz practice
+// FizzBuzz and github practice
 
-for ( i = 1; i <=20; i +=1 ) {
+for ( i = 1; i <=20; i ++ ) {
   if ( i%3 === 0 && i%5 === 0 ) {
     console.log('FizzBuzz');
   } else if ( i%3 === 0) {
